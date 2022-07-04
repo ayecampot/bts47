@@ -35,7 +35,12 @@ background-color:#f2deff ;
 }
 
 
-
+.accordion-button:focus{
+  z-index: 3;
+  border-color:#B57EDC;
+  outline: 0;
+  box-shadow: #f2deff ;
+}
 
 
 
